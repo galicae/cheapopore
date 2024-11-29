@@ -48,19 +48,20 @@ void loop() {
   
   tcs.setInterrupt(false);  // turn on LED
 
-  delay(500);  // takes 50ms to read
+  delay(60);  // takes 50ms to read
 
   tcs.getRGB(&red, &green, &blue);
   
   tcs.setInterrupt(true);  // turn off LED
 
-  Serial.print("R:\t"); Serial.print(int(red)); 
-  Serial.print("G:\t"); Serial.print(int(green)); 
-  Serial.print("B:\t"); Serial.print(int(blue));
+  Serial.print(int(red)); 
+  Serial.print("\t");
+  Serial.print(int(green)); 
+  Serial.print("\t");
+  Serial.print(int(blue));
 
 //  Serial.print("\t");
 //  Serial.print((int)red, HEX); Serial.print((int)green, HEX); Serial.print((int)blue, HEX);
-  Serial.print("\n");
 
 //  uint16_t red, green, blue, clear;
 //  
