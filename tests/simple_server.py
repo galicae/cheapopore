@@ -18,5 +18,7 @@ def read():
 
 # G: yellow, C: blue, A: green, T: red
 
-while True:
+t_end = time.time() + 10
+print("sequencing...")
+while time.time() < t_end:
     print(read())
