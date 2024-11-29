@@ -1,0 +1,89 @@
+BLItemNo	ElementId	LdrawId	PartName	BLColorId	LDrawColorId	ColorName	ColorCategory	Qty	Weight
+2431	243101	2431	Tile 1 x 4	1	15	White	Solid Colors	1	0.54
+2431	4211053	2431	Tile 1 x 4	85	72	Dark Bluish Gray	Solid Colors	1	0.54
+2454	4212414	2454	Brick 1 x 2 x 5	5	4	Red	Solid Colors	2	3.49
+2780	4121715	2780	Technic, Pin with Friction Ridges Lengthwise WITH Center Slots	11	0	Black	Solid Colors	93	0.16
+3003	4211387	3003	Brick 2 x 2	86	71	Light Bluish Gray	Solid Colors	2	1.35
+3004	4613961	3004	Brick 1 x 2	5	4	Red	Solid Colors	2	0.8
+3004	4613964	3004	Brick 1 x 2	1	15	White	Solid Colors	3	0.8
+3004	4211388	3004	Brick 1 x 2	86	71	Light Bluish Gray	Solid Colors	2	0.8
+3005	300521	3005	Brick 1 x 1	5	4	Red	Solid Colors	3	0.44
+3005	300501	3005	Brick 1 x 1	1	15	White	Solid Colors	3	0.44
+3005	6220959	3005	Brick 1 x 1	12	47	Trans-Clear	Transparent Colors	1	0.44
+3008	300821	3008	Brick 1 x 8	5	4	Red	Solid Colors	2	3.21
+3010	4211394	3010	Brick 1 x 4	86	71	Light Bluish Gray	Solid Colors	1	1.64
+3010	301001	3010	Brick 1 x 4	1	15	White	Solid Colors	2	1.64
+30134	6226634	30134	Stairs 7 x 4 x 6 Straight Open	85	72	Dark Bluish Gray	Solid Colors	1	7.58
+30162	4587887	30162	Minifig, Utensil Binoculars Town	85	72	Dark Bluish Gray	Solid Colors	1	0.19
+3020	4211065	3020	Plate 2 x 4	85	72	Dark Bluish Gray	Solid Colors	2	1.2
+3022	4211094	3022	Plate 2 x 2	85	72	Dark Bluish Gray	Solid Colors	3	0.64
+3022	4109983	3022	Plate 2 x 2	8	6	Brown	Solid Colors	1	0.64
+3023	4211398	3023	Plate 1 x 2	86	71	Light Bluish Gray	Solid Colors	1	0.36
+3023	302326	3023	Plate 1 x 2	11	0	Black	Solid Colors	2	0.36
+3023	302301	3023	Plate 1 x 2	1	15	White	Solid Colors	3	0.36
+3024	302421	3024	Plate 1 x 1	5	4	Red	Solid Colors	1	0.2
+3024	302401	3024	Plate 1 x 1	1	15	White	Solid Colors	1	0.2
+3031	4243831	3031	Plate 4 x 4	85	72	Dark Bluish Gray	Solid Colors	1	2.22
+3032	4211115	3032	Plate 4 x 6	85	72	Dark Bluish Gray	Solid Colors	14	3.3
+3035	303526	3035	Plate 4 x 8	11	0	Black	Solid Colors	4	4.7
+3039	4211410	3039	Slope 45 2 x 2	86	71	Light Bluish Gray	Solid Colors	1	1.15
+3039p23		3039p23	Slope 45 2 x 2 with Computer Screen Pattern	1	15	White	Solid Colors	1	1.15
+3068a		3068a	Tile 2 x 2 without Groove	86	71	Light Bluish Gray	Solid Colors	1	0.5
+3068bpb0062	4289304	3068bpb0062	Tile 2 x 2 with Computer Monitor Pattern 1, with Black Power Switch Icon	1	15	White	Solid Colors	1	0.45
+3069b	4211414	3069b	Tile 1 x 2 with Groove	86	71	Light Bluish Gray	Solid Colors	2	0.26
+3069b	306901	3069b	Tile 1 x 2 with Groove	1	15	White	Solid Colors	1	0.26
+3069b	6251294	3069b	Tile 1 x 2 with Groove	12	47	Trans-Clear	Transparent Colors	1	0.26
+3069bpb030	4293350	3069bpb030	Tile 1 x 2 with Computer Keyboard Standard Pattern	1	15	White	Solid Colors	1	0.3
+3070b	4210848	3070b	Tile 1 x 1 with Groove	85	72	Dark Bluish Gray	Solid Colors	1	0.16
+4265c	6271167	4265c	Technic Bush 1/2 Smooth	3	14	Yellow	Solid Colors	4	0.1
+32140	6271825	32140	Technic, Liftarm 2 x 4 L-Shape Thick	11	0	Black	Solid Colors	1	1.43
+32271	4140327	32271	Technic, Liftarm 1 x 9 Bent (7 - 3) Thick	11	0	Black	Solid Colors	2	2.63
+32278	4542578	32278	Technic, Liftarm 1 x 15 Thick	1	15	White	Solid Colors	14	4.0
+32278	4542573	32278	Technic, Liftarm 1 x 15 Thick	11	0	Black	Solid Colors	11	4.0
+32316	4142135	32316	Technic, Liftarm 1 x 5 Thick	11	0	Black	Solid Colors	1	1.21
+32316	4211651	32316	Technic, Liftarm 1 x 5 Thick	86	71	Light Bluish Gray	Solid Colors	1	1.21
+32524	4495930	32524	Technic, Liftarm 1 x 7 Thick	86	71	Light Bluish Gray	Solid Colors	4	1.74
+32525	4611705	32525	Technic, Liftarm 1 x 11 Thick	86	71	Light Bluish Gray	Solid Colors	4	2.8
+32526	4142823	32526	Technic, Liftarm 3 x 5 L-Shape Thick	11	0	Black	Solid Colors	4	1.77
+32828	6196548	32828	Bar 1L with 1 x 1 Round Plate with Hollow Stud	11	0	Black	Solid Colors	1	0.16
+3622	362201	3622	Brick 1 x 3	1	15	White	Solid Colors	1	1.24
+3622	362221	3622	Brick 1 x 3	5	4	Red	Solid Colors	2	1.24
+3623	362301	3623	Plate 1 x 3	1	15	White	Solid Colors	4	0.53
+3623	4211133	3623	Plate 1 x 3	85	72	Dark Bluish Gray	Solid Colors	1	0.53
+3648	6240162	3648	Technic, Gear 24 Tooth (New Style with Single Axle Hole)	85	72	Dark Bluish Gray	Solid Colors	1	1.231
+3660	4211000	3660	Slope, Inverted 45 2 x 2	85	72	Dark Bluish Gray	Solid Colors	1	1.25
+3673	4211807	3673	Technic, Pin without Friction Ridges Lengthwise	86	71	Light Bluish Gray	Solid Colors	64	0.16
+3710	4211001	3710	Plate 1 x 4	85	72	Dark Bluish Gray	Solid Colors	1	0.71
+3713	6275844	3713	Technic Bush	86	71	Light Bluish Gray	Solid Colors	6	0.14
+3737	373726	3737	Technic, Axle 10	11	0	Black	Solid Colors	2	1.49
+3743	4211450	3743	Technic, Gear Rack 1 x 4	86	71	Light Bluish Gray	Solid Colors	11	0.79
+3794a	4211119	3794a	Plate, Modified 1 x 2 with 1 Stud WITHOUT Groove (Jumper)	85	72	Dark Bluish Gray	Solid Colors	1	0.3
+3899	389921	3899	Minifig, Utensil Cup	5	4	Red	Solid Colors	1	0.33
+3937	393701	3937	Hinge Brick 1 x 2 Base	1	15	White	Solid Colors	1	0.48
+3938	393801	3938	Hinge Brick 1 x 2 Top Plate Thin	1	15	White	Solid Colors	1	0.34
+40490	6102449	40490	Technic, Liftarm 1 x 9 Thick	86	71	Light Bluish Gray	Solid Colors	6	2.59
+41239	4522934	41239	Technic, Liftarm 1 x 13 Thick	86	71	Light Bluish Gray	Solid Colors	2	3.3
+41239	4522933	41239	Technic, Liftarm 1 x 13 Thick	11	0	Black	Solid Colors	10	3.3
+4533	4261470	4533	Container, Cupboard 2 x 3 x 2 Door	1	15	White	Solid Colors	1	0.43
+4536	4520636	4536	Container, Cupboard 2 x 3 x X Drawer	1	15	White	Solid Colors	2	0.45
+48989	4225033	48989	Technic, Pin Connector Perpendicular 3L with 4 Pins	86	71	Light Bluish Gray	Solid Colors	8	1.22
+60484	4552347	60484	Technic, Liftarm 3 x 3 T-Shape Thick	11	0	Black	Solid Colors	3	1.19
+6091	6184784	6091	Brick, Modified 1 x 2 x 1 1/3 with Curved Top	11	0	Black	Solid Colors	1	0.65
+6091	4210797	6091	Brick, Modified 1 x 2 x 1 1/3 with Curved Top	85	72	Dark Bluish Gray	Solid Colors	1	0.65
+64178	4540797	64178	Technic, Liftarm 5 x 11 Open Center Frame Thick	86	71	Light Bluish Gray	Solid Colors	5	7.0
+64179	4539880	64179	Technic, Liftarm 5 x 7 Open Center Frame Thick	86	71	Light Bluish Gray	Solid Colors	13	5.3
+6558	4514553	6558	Technic, Pin 3L with Friction Ridges Lengthwise	7	1	Blue	Solid Colors	54	0.31
+6629	4112282	6629	Technic, Liftarm 1 x 9 Bent (6 - 4) Thick	11	0	Black	Solid Colors	2	2.6
+87083	6083620	87083	Technic, Axle 4 with Stop	85	72	Dark Bluish Gray	Solid Colors	1	0.59
+87087	4558953	87087	Brick, Modified 1 x 1 with Stud on 1 Side	86	71	Light Bluish Gray	Solid Colors	1	0.45
+4532	4610112	4532	Container, Cupboard 2 x 3 x 2	86	71	Light Bluish Gray	Solid Colors	2	2.5
+95228	6247369	95228	Minifig, Utensil Bottle	12	47	Trans-Clear	Transparent Colors	1	0.55
+98138	6009460	98138	Tile, Round 1 x 1	7	1	Blue	Solid Colors	1	0.11
+98138	6070714	98138	Tile, Round 1 x 1	3	14	Yellow	Solid Colors	1	0.11
+98138	6284071	98138	Tile, Round 1 x 1	86	71	Light Bluish Gray	Solid Colors	1	0.11
+98138		98138	Tile, Round 1 x 1	8	6	Brown	Solid Colors	1	0.11
+99781	4654582	99781	Bracket 1 x 2 - 1 x 2	86	71	Light Bluish Gray	Solid Colors	1	0.55
+3062old		3062old	Brick, Round 1 x 1 Old - No Bottom Lip	12	47	Trans-Clear	Transparent Colors	2	0.4
+									
+Total qty	Total Weight								
+428	506.9109								
