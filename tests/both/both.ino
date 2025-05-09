@@ -24,7 +24,6 @@ void setup() {
   Serial.begin(9600);
   // initialize servo motor
   servo.attach(SERVO_PIN); // attaches the servo on pin 9 to the servo object
-  servo.write(angle);
 
   if (tcs.begin()) {
     //Serial.println("Found sensor");
@@ -60,7 +59,7 @@ void loop() {
     if (val == 1) {
         tcs.setInterrupt(false);  // turn on LED
 
-        delay(60);  // takes 50ms to read
+        delay(100);// takes 50ms to read
 
         tcs.getRGB(&red, &green, &blue);
 
@@ -70,14 +69,10 @@ void loop() {
         Serial.print("\t");
         Serial.print(int(blue));
 
-        if(angle < 180)
-          angle = angle + 10;
-        else
-        if(angle > 0)
-          angle = angle - 10;
-
         // control servo motor arccoding to the angle
-        servo.write(angle);
+        servo.writeMicroseconds(2000);
+        delay(400);
+        servo.writeMicroseconds(1500);
     }
 
     if (val == 0) {
@@ -86,8 +81,12 @@ void loop() {
     }
 
     if (val == 2) {
-        servo.write(0); // reset servo
+        Serial.write('OFF\n');
+        tcs.setInterrupt(true);
+        delay(1000);
+        servo.writeMicroseconds(1000);
+        delay(5000);
+        servo.writeMicroseconds(1500);
     }
-  
   }
 }
