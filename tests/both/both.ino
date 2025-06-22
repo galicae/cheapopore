@@ -26,7 +26,7 @@ void setup() {
   servo.attach(SERVO_PIN); // attaches the servo on pin 9 to the servo object
 
   if (tcs.begin()) {
-    //Serial.println("Found sensor");
+    // Serial.println("Found sensor");
   } else {
     Serial.println("No TCS34725 found ... check your connections");
     while (1); // halt!
@@ -70,8 +70,8 @@ void loop() {
         Serial.print(int(blue));
 
         // control servo motor arccoding to the angle
-        servo.writeMicroseconds(2000);
-        delay(400);
+        servo.writeMicroseconds(1000);
+        delay(310);
         servo.writeMicroseconds(1500);
     }
 
@@ -84,8 +84,8 @@ void loop() {
         Serial.write('OFF\n');
         tcs.setInterrupt(true);
         delay(1000);
-        servo.writeMicroseconds(1000);
-        delay(5000);
+        servo.writeMicroseconds(2000);
+        delay(2700);
         servo.writeMicroseconds(1500);
     }
   }

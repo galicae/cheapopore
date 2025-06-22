@@ -89,17 +89,15 @@ def plot_sequencing(data):
     
 
 def main():
-    port = 'COM3'
+    port = 'COM4'
     arduino = serial.Serial(port=port, baudrate=9600, timeout=.1)
     # frames = 10
     # cols = [read() for f in tqdm(range(frames))]
 
     # G: yellow, C: blue, A: green, T: red
 
-    t_end = time.time() + 10
     print("sequencing...")
     data = []
-    # while time.time() < t_end:
     for i in range(12):
         print(i)
         response = read_write(arduino, 1)
@@ -114,7 +112,7 @@ def main():
     # time.sleep(1)
     read_write(arduino, 2)
 
-    plot_sequencing(data)
+    # plot_sequencing(data)
 
     
 
