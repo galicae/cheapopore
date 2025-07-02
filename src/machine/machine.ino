@@ -46,6 +46,9 @@ void setup() {
       gammatable[i] = x;
     }
     //Serial.println(gammatable[i]);
+
+    // Serial.print("RED\tGREEN\tBLUE\tCLEAR\n");
+    // Serial.println("---------------------------------");
   }
 }
 
@@ -53,7 +56,7 @@ void setup() {
 // Processing example colorview.pde can work with this kind of data too, but It requires manual conversion to 
 // [0-255] RGB value. You can still uncomments parts of colorview.pde and play with clear value.
 void loop() {
-  float red, green, blue;
+  uint16_t red, green, blue, clear;
   if (Serial.available() > 0) {
     int val = char(Serial.read())-'0';
     if (val == 1) {
@@ -61,13 +64,15 @@ void loop() {
 
         delay(100);// takes 50ms to read
 
-        tcs.getRGB(&red, &green, &blue);
+        tcs.getRawData(&red, &green, &blue, &clear);
 
         Serial.print(int(red)); 
         Serial.print("\t");
         Serial.print(int(green)); 
         Serial.print("\t");
         Serial.print(int(blue));
+        Serial.print("\t");
+        Serial.print(int(clear));
 
         // control servo motor arccoding to the angle
         servo.writeMicroseconds(1000);
