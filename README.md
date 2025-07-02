@@ -13,5 +13,7 @@ Reverse-engineering the Brickopore sequencing project with Arduino and non-LEGO 
 | 2024-11-29 | button servo tutorial from [arduinogetstarted](https://arduinogetstarted.com/tutorials/arduino-button-servo-motor). Implemented in [button_servo.ino](./tests/button_servo/button_servo.ino). |
 | 2024-11-29 | adafruit TCS34725 tutorial from [makersguides](https://www.makerguides.com/tcs34725-rgb-color-sensor-with-arduino/). Implemented in [color_sensor.ino](./tests/color_sensor/color_sensor.ino). |
 | 2024-11-30 | Combined [color_sensor.ino](./tests/color_sensor/color_sensor.ino) and [simple_server.py](./tests/simple_server.py) into the simplest possible input reader! |
+| 2025-05 | went to local board game store and McGyver'ed a board. |
+| 2025-06 | frantically trying to make a workable sequencer, so much that I forgot I wanted to document it. |
 
 </details>
